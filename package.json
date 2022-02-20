@@ -1,0 +1,24 @@
+{
+  "name": "warrngsus-buffet",
+  "version": "0.0.0",
+  "description": "will help you lose money",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muggy8/WarRNGsus-Buffet.git"
+  },
+  "keywords": [
+    "trader",
+    "crypto",
+    "rng"
+  ],
+  "author": "Muggy Ate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muggy8/WarRNGsus-Buffet/issues"
+  },
+  "homepage": "https://github.com/muggy8/WarRNGsus-Buffet#readme"
+}
